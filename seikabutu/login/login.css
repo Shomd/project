@@ -1,0 +1,29 @@
+@media only screen and (min-width: 750px){
+    .content {
+        margin-top: 4rem;
+        padding: 4rem;
+        width: 460px;
+       
+    }
+}
+
+@media only screen and (max-width: 750px){
+    .login {
+        height: 12vw;
+    }
+}
+
+
+.content {
+    background-color: red;
+    text-align: center;
+}
+
+
+.login {
+    width: 100%;
+    border: solid 1px black;
+    border-radius: 2px;
+    margin-top: 1rem;
+    
+}
